@@ -1,0 +1,96 @@
+/* .header_box{
+    background-image: url('../../assets/images/mariia-shalabaieva-cfv1NRcK32I-unsplash.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 450px;
+    opacity: 1;
+    border-radius: 0px 0 100px 0;
+  
+    margin: 0px 0px 0px 0px !important;
+} */
+
+.header_box{
+    height: 450px;
+    padding-left: 5%;
+    background: #FFFFFF;
+}
+
+.header_box3{
+    border: 1px solid #FFFFFF;
+    width: 100%;
+    height: 150px;
+    margin-top: 220px;
+    border-radius: 20px;
+    justify-content: center;
+    background-color: #FFFFFF;
+    display: flex;
+   
+    /* background-image: url('../../assets/images/2011_homefront_game-1920x1200.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover; */
+    height: 450px;
+}
+.viewmore2{
+    justify-content: center;
+    left: 44%;
+    margin-top: 50px !important;
+}
+.mockup{
+    height: 350px;
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+    margin-left: 10%;
+    border-radius: 0px;
+}
+
+
+.heading{
+    padding-top: 1.7em;
+}
+.search{
+    width: 100px !important;
+}
+.second_box{
+    /* background-image: url('../../assets/images/marek-piwnicki-vRCQJiYnx0A-unsplash.jpg'); */
+    background-attachment: scroll;
+    /* background-position: ; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 450px;
+}
+
+/* .icon_display{
+    
+} */
+.built{
+    text-align: center;
+}
+.sponsor{
+    width: 100px;
+}
+.walmart{
+    width: 150px;
+}
+
+@media screen and (max-width: 600px) {
+    .sponsor{
+        width: 70px;
+    }
+    .walmart{
+        width: 100px;
+    }
+    .header_box2{
+        height: 50px;
+        background-color: white;
+    }
+   
+    .viewmore2{
+        position: absolute;
+        left: 30% !important;
+    }
+}

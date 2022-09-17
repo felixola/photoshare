@@ -1,0 +1,31 @@
+.logo {
+    height: 43px;
+    margin-left: 20px;
+   
+}
+.favourite_icon{
+    color: red;
+     width: 18px;
+}
+.account_icon{
+    margin-right: 1px !important;
+    padding: 0px !important;
+}
+.appbar{
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+/* .box2{
+    height: 400px;
+    width: 100%;
+    background-image: url('../../assets/images/marek-piwnicki-PvxGJxyj3XY-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    background-position: center;
+} */
+@media screen and (max-width: 600px) {
+    .logo{
+        margin-left: 5px;
+    }
+}
